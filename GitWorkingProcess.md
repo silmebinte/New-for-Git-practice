@@ -17,15 +17,7 @@ Pushing Repo to GitHub
 10. Type 'git push -u origin master'
 11. GitHub will ask your username and Password.
 
-Username of gitHub: ferdousbhuiya
-Password: the token from gitHub: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
 
-
-SSH Key:
-MacBookPro
-SHA256:7jFxwHhQmFwOG1BzkPA7I5S60mDQvQX3F2MH+HPrnEk
-Added on Sep 25, 2022
-Never used — Read/write
 
 
 Testing your SSH connection:
